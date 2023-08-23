@@ -1,7 +1,7 @@
 ### Olá, me chamo Daniel Nunes!
 
 - 🌱 Estudando Java, Python, JavaScript
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas (2° semestre) - UNIFOR
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas (3° semestre) - UNIFOR
 - 📫 Contate-me no email: danielnunespk@gmail.com
 - 😄 ele/dele
 - ⚡ Comentarista de futebol regional nas horas vagas
